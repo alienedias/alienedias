@@ -5,11 +5,11 @@ Me chamo Aliene Dias, tenho 30 anos e troquei o microscópio pelo teclado! 🔬�
 Após mais de 10 anos dedicados à área da saúde, decidi seguir minha paixão por tecnologia e mergulhei de cabeça no mundo da programação. <br> 
 Estou animada para transformar esse entusiasmo em uma carreira de sucesso.
 
-Aqui você conseque conferir todo o meu progresso 🚀
+Aqui você consegue conferir todo o meu progresso 🚀
 
  <div>
    <a href="https://github.com/alienedias">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alienedias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ 
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alienedias&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
