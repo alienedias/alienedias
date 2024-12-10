@@ -7,7 +7,10 @@ Estou animada para transformar esse entusiasmo em uma carreira de sucesso.
 
 Aqui você consegue conferir todo o meu progresso 🚀
 
- 
+  <div>
+   <a href="https://github.com/alienedias">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alienedias&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
